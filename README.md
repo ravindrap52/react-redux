@@ -1,14 +1,22 @@
-# react-redux
+# Project Title
 
-Sample web application using React Redux and integrating with polls api.
+React Redux
 
-Project created by using create react app.
-used moment.js for formatting the date.
-used 7-1 scss architecture.
+### Installing
 
-`
-    step1: git clone from https://github.com/ravindrap52/react-redux.git 
-    step2: npm install 
-    step3: npm start
-`
+steps to get a development env running
+```
+git clone https://github.com/ravindrap52/react-redux.git
+```
+```
+npm install
+```
+```
+npm start
+```
+### Author
+```
+Ravindra
+
+```
 
