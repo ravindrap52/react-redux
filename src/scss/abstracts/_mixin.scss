@@ -1,0 +1,9 @@
+@mixin display($displayProperty) {
+  display: $displayProperty;
+}
+@mixin justifyContent($justify) {
+  justify-content: $justify;
+}
+@mixin alignItems($align) {
+  align-items: $align;
+}
